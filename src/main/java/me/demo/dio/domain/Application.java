@@ -1,4 +1,4 @@
-package me.demo.dio;
+package me.demo.dio.domain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
