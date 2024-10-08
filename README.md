@@ -47,7 +47,7 @@ User "1" *-- "N" News
 - Gerenciamento de usuários
 - Serviços de contas e cartões
 - Funcionalidades para operações bancárias
-- Integração com APIs de notícias financeiras
+- Exibe notícias financeiras
 
 ## Começando
 
